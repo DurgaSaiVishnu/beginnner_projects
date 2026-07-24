@@ -4,13 +4,13 @@ int main() {
     printf("enter the price: ");
     scanf("%f",  &price );
     if (price >= 0 && price <= 5000){
-        printf("your total amount is %f", price);
+        printf("your didnt get any discount your total amount is %f", price);
     }else if(price >= 5001 && price <= 7000){
         printf("your discount is 5%% so total amount  is %.2lf", price - 0.05*price);
     }else if(price >= 7001 && price <= 9000){
-        printf("your discount is 5%% so total amount  is %.2lf", price - 0.1*price);
+        printf("your discount is 10%% so total amount  is %.2lf", price - 0.1*price);
     }else if(price > 9000){
-        printf("your discount is 5%% so total amount  is %.2lf", price - 0.2*price);
+        printf("your discount is 20%% so total amount  is %.2lf", price - 0.2*price);
     }
     return 0;
 }
