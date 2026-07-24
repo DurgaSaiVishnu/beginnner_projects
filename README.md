@@ -16,6 +16,6 @@ This repository contains all my first-time C projects and exercises.
 * **Description:** Detects if a character entered by the user is a vowel or a consonant.
 
 
-* **`discount_calculator.c`**
+### 4. * **`Discount_Calculator.c`**
   Calculates the final price of an item after applying a specific discount percentage based on the total purchase amount.
   * **Key Concept:** Conditional logic (`if-else`) and calculating percentage deductions using floats.
