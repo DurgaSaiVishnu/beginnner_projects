@@ -12,6 +12,8 @@ int main() {
         printf("Hit\n");
     }else if (rating >= 4.6 && rating <= 5.0){
         printf("Super Hit\n");
+    }else{
+        printf("enter a valid rating");
     }
     return 0;
 }
