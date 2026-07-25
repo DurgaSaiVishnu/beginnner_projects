@@ -27,8 +27,11 @@ int main() {
     case 7:
     printf("sunday");
     break;
+<<<<<<< HEAD
     default:
     printf("invalid weekday");
+=======
+>>>>>>> 7e8c70303a7597dae788d13e14d698c44e11e202
     }
     return 0;
 }
