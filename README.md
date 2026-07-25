@@ -1,21 +1,23 @@
-# My C Programming Learning Journey
+# 🚀 My First Time C Projects
 
-This repository contains all my first-time C projects and exercises.
+This repository stores all of my early C programs as I learn the language step by step.
 
-## 📱 Project Descriptions
+## 📱 Project Index & Descriptions
 
-### 1. Grade Calculator (`grade_calculator.c`)
-* **Description:** Asks for 3 subject scores, calculates the float percentage accurately, and assigns letter grades (A+, B, etc.).
-* **Key Concept:** `if-else` blocks and float division.
+* **`grade_percentage_calculator.c`**
+  Calculates precise float percentage averages for 3 exams and displays the matching letter grade using structured `if-else` conditions.
+  
+* **`movie_rating.c`**
+  Tracks movie scores and handles rating check logic.
 
-### 2. Movie Rating System (`movie_rating.c`)
-* **Description:** Lets users input movie reviews and tracks the average rating scores.
-* **Key Concept:** User input handling and loops.
+* **`vowel_detector.c`**
+  Checks whether a single character input by the user is a vowel or a consonant.
 
-### 3. Vowel Detector (`vowel_detector.c`)
-* **Description:** Detects if a character entered by the user is a vowel or a consonant.
+* **`valid-voter-prob-short.c`**
+  Checks voting eligibility based on age using a compact, single-line ternary operator (`? :`) instead of a traditional `if-else` block.
 
+* **`discount-problem.c`**
+  Calculates dynamic customer discounts and final item prices based on total purchase amounts.
 
-### 4. Discount calculator **`Discount_Calculator.c`**
-  Calculates the final price of an item after applying a specific discount percentage based on the total purchase amount.
-  * **Key Concept:** Conditional logic (`if-else`) and calculating percentage deductions using floats.
+* **`weekday-problem.c`**
+  Takes a number input (1 to 7) and outputs the corresponding name of the weekday.
