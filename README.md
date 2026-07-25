@@ -1,23 +1,29 @@
-# 🚀 My First Time C Projects
+# My C Programming Learning Journey
 
-This repository stores all of my early C programs as I learn the language step by step.
+This repository contains all my first-time C projects and exercises.
 
-## 📱 Project Index & Descriptions
+## 📱 Project Descriptions
 
-* **`grade_percentage_calculator.c`**
-  Calculates precise float percentage averages for 3 exams and displays the matching letter grade using structured `if-else` conditions.
-  
-* **`movie_rating.c`**
-  Tracks movie scores and handles rating check logic.
+### 1. Grade Calculator (`grade_percentage_calculator.c`)
+* **Description:** Asks for 3 subject scores, calculates the float percentage accurately, and assigns letter grades.
+* **Key Concept:** `if-else` blocks and float division.
 
-* **`vowel_detector.c`**
-  Checks whether a single character input by the user is a vowel or a consonant.
+### 2. Movie Rating System (`movie_rating.c`)
+* **Description:** Tracks movie scores and handles rating check logic.
+* **Key Concept:** User input handling and relational operators.
 
-* **`valid-voter-prob-short.c`**
-  Checks voting eligibility based on age using a compact, single-line ternary operator (`? :`) instead of a traditional `if-else` block.
+### 3. Vowel Detector (`vowel_detector.c`)
+* **Description:** Checks whether a single character input by the user is a vowel or a consonant.
+* **Key Concept:** Logical OR (`||`) operators and char conditions.
 
-* **`discount-problem.c`**
-  Calculates dynamic customer discounts and final item prices based on total purchase amounts.
+### 4. Valid Voter Check (`valid-voter-prob-short.c`)
+* **Description:** Checks voting eligibility based on age using a compact, single-line format.
+* **Key Concept:** Ternary operator (`? :`) shorthand.
 
-* **`weekday-problem.c`**
-  Takes a number input (1 to 7) and outputs the corresponding name of the weekday.
+### 5. Discount System (`discount-problem.c`)
+* **Description:** Calculates dynamic customer discounts and final item prices based on purchase amounts.
+* **Key Concept:** Nested conditions and percentage arithmetic.
+
+### 6. Weekday Finder (`weekday-problem.c`)
+* **Description:** Takes a number input (1 to 7) and outputs the corresponding name of the weekday.
+* **Key Concept:** Multi-way conditional branches.
